@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+}
+
+.main-container{
+    padding-top: 50px;
+    height: 100vh;
+}
+
+.navbar-brand, h1, h2, h3, h4 {
+    color:#4586EC!important;
+}
+
+h2, h3, h4, h5 {
+    padding-top: 30px;
+}
+.btn-jumbo {
+    background-color:#4586EC!important;
+}
+.lead, h5 {
+    color: #ECAB45!important;
+}
+.nav-custom, .jumbotron {
+    background-color: #FFFFFF!important;
+}
+img{
+    padding-top:50px;
+}
+.whitespace1 {
+    height: 30px;
+}
+.whitespace2 {
+    height: 50px;
+}
+.whitespace3 {
+    height: 25vh;
+}
